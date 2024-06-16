@@ -1,0 +1,16 @@
+{
+    "data": [
+        {
+            "char1_role": "scuba diver",
+            "char1_gender": "female",
+            "char2_role": "bird watcher",
+            "char2_gender": "male",
+            "mutual_relationships": [
+                "yoga",
+                "retail colleagues"
+            ],
+            "accidental_reveal": "character falls down a well",
+            "reveal": "character cooks soup"
+        }
+    ]
+}
